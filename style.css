@@ -1,3 +1,8 @@
+* {
+  background: black;
+  color: white;
+}
+
 .grid {
   display: flex;
   flex-wrap: wrap;
